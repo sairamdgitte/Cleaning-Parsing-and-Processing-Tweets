@@ -1,0 +1,2 @@
+# Cleaning-Parsing-and-Processing-Tweets
+Parsing Text Files and Text Pre-Processing Extracting tweet id's, tweets and their creation date time from a large dataset of text file (by just using the below mentioned libraries): Reading the file, cleaning it, extracting only the unique tweets that are English, and writing it to an XML file. Generate corpus vocabulary, Calculate top 100 frequent unigram and top 100 frequent bigrams, Generate a sparse representation of the excel file
